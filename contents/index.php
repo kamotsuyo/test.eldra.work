@@ -3,3 +3,4 @@
 <p>update</</p>
 <p>hoge</p>
 <p>update sublimetext ftp</p>
+<p>9/27　設定完了しました</p>
