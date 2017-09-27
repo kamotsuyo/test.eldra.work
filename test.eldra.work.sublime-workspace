@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kamogashiratsuyoshi/Dropbox/test.eldra.work",
+		"/Users/kamogashiratsuyoshi/Dropbox/test.eldra.work/contents"
+	],
+	"file_history":
+	[
+		"/Users/kamogashiratsuyoshi/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/kamogashiratsuyoshi/Dropbox/kam.hiho.jp/sftp-config.json",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_wordpress/wordpress/wp-config.php",
+		"/Volumes/HFS+32GB/phpMyAdmin SQL Dump.sql",
+		"/private/var/folders/py/w59z14yn27lf66gn5_4cq1h00000gn/T/baf03405-9cdb-4dab-a823-7eaf2daacf54/efo_wiki/index.html",
+		"/Users/kamogashiratsuyoshi/Dropbox/test.eldra.work/contents/index.php",
+		"/private/var/folders/py/w59z14yn27lf66gn5_4cq1h00000gn/T/baf03405-9cdb-4dab-a823-7eaf2daacf54/diary/index.html",
+		"/Volumes/HFS+32GB/index.html",
+		"/Volumes/HFS+32GB/_data_/TODO&実行　まとめ - Qiita.html",
+		"/Volumes/HFS+32GB/_data_/TODO&実行　まとめ - Qiita_files/all.js",
+		"/Volumes/HFS+32GB/_data_/TODO&実行　まとめ - Qiita_files/activityi(1).html",
+		"/Volumes/HFS+32GB/自分のノート/TODO.html",
+		"/Users/kamogashiratsuyoshi/.bash_profile",
+		"/Users/kamogashiratsuyoshi/Library/Containers/com.qiita.Kobito/Data/Library/Kobito/CSS/custom-style.css",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_wordpress/wordpress/readme.html",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_wordpress/wordpress/.htaccess",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_wordpress/wordpress/index.php",
+		"/Users/kamogashiratsuyoshi/Dropbox/やること.txt",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_test/htdocs/reset.css",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_test/htdocs/index.php",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_test/htdocs/main.css",
+		"/Users/kamogashiratsuyoshi/Dropbox/local_mamp_test/htdocs/main.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "test.eldra.work.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
